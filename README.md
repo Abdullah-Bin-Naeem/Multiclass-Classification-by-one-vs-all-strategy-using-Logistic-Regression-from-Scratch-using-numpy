@@ -32,4 +32,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any questions or inquiries, please contact abdullahbinnaeempro@gmail.com.
 
-Thank you for using ImageWizard! Happy processing!
