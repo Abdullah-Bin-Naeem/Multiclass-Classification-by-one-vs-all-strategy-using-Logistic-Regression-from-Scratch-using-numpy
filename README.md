@@ -19,6 +19,8 @@ To run the code, simply use the `logistic_regression.ipynb` notebook. Make sure 
 pip install -r requirements.txt
 ```
 or just install them using the notebook ```logistic_regression.ipynb``` using pip.
+
+Yes its that simple 🧁
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
